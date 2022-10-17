@@ -1,0 +1,43 @@
+CSS-
+
+strong{
+  color:black;
+}
+body {
+    background:#fffb00
+}
+
+p {
+    text-align: center;
+     font-family: "Times New Roman";
+}
+
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+ font-family: "Times New Roman";
+}
+p1 <
+    text-align: center;
+>
+
+}
+
+em strong {
+    color:#050505;
+}
+img{
+ display: block;
+ margin: 0px auto;font-family:"verdana"
+}
+
+ul {
+text-align: center
+}
+
+p {
+  font-family:"verdana", sans-serif
+}
